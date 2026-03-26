@@ -18,8 +18,8 @@ To write a Python program to overload a comparison operator using a class named 
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 class A:
     def __init__(self, val):
         self.val = val
