@@ -19,8 +19,8 @@ To write a Python program using the overloading operator for adding two objects.
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 class A:
     def __init__(self, val):
         self.val = val
