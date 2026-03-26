@@ -21,8 +21,8 @@ To create an abstract class `Payment` with an abstract method `payment`. Create 
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 from abc import ABC, abstractmethod
 
 class Payment(ABC):
