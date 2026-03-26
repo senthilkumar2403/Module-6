@@ -24,8 +24,8 @@ To write a Python program to define the abstract base class named `Polygon` and 
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 from abc import ABC, abstractmethod
 
 class Polygon(ABC):
