@@ -19,8 +19,8 @@ To create an `Employee` class by defining employee attributes such as `name` and
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 class Employee:
     def __init__(self, name, salary):
         self.name = name
